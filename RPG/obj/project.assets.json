@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Game Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Game Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Game Classes.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Game Classes/1.0.0": {
+      "type": "project",
+      "path": "../Character/Game Classes.csproj",
+      "msbuildProject": "../Character/Game Classes.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Game Classes >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vikra\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vikra\\Development\\Repos\\GitHub\\RPG\\Character\\Game Classes.csproj": {
+              "projectPath": "C:\\Users\\vikra\\Development\\Repos\\GitHub\\RPG\\Character\\Game Classes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
