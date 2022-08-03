@@ -22,14 +22,14 @@ namespace Game_Classes.Character.Face.Mouth
     public enum MouthSize
     {
         BIG,
-        MEDIUM,
+        AVERAGE,
         SMALL
     }
 
     public enum MouthWidth
     {
         WIDE,
-        NORMAL,
+        AVERAGE,
         NARROW
     }
 }
