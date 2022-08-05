@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character.Face
+namespace Character.Physical.Body
 {
-    internal class FaceShape
+    internal class Torso
     {
     }
 }

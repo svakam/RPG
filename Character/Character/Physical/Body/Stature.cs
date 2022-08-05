@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character.Face
+namespace Character.Physical.Body
 {
-    internal class Ears
+    public class Stature
     {
+        public decimal Height { get; set; }
     }
 }

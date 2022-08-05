@@ -4,8 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character.Head.Face
+namespace Character.Physical.Face
 {
+    public class Nose
+    {
+
+    }
+
     public enum NoseContour
     {
         STRAIGHT,

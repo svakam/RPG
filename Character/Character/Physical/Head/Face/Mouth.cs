@@ -4,8 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character.Face.Mouth
+namespace Character.Physical.Face
 {
+    public class Mouth
+    {
+
+    }
+
     public enum MouthShape
     {
         FULL,

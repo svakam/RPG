@@ -4,8 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character
+namespace Character.Physical.Face
 {
+    public class Eyes
+    {
+
+    }
     public enum EyeColor
     {
         DARKBROWN,
@@ -37,5 +41,5 @@ namespace Game_Classes.Character
         VERYNARROW
     }
 
-    public enum 
+    // public enum EyeTilt
 }

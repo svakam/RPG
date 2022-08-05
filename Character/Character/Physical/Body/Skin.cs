@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character.Body
+namespace Character.Physical.Body
 {
     public enum SkinType
     {

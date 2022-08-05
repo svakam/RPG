@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Game_Classes.Character.Body
+namespace Character.Personality
 {
-    internal class Torso
+    public class MentalState
     {
+
     }
 }
