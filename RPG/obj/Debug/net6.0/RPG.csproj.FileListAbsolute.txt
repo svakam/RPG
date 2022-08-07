@@ -13,3 +13,6 @@ C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\obj\Debug\net6.0\RPG.dll
 C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\obj\Debug\net6.0\ref\RPG.dll
 C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\obj\Debug\net6.0\RPG.pdb
 C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\obj\Debug\net6.0\RPG.genruntimeconfig.cache
+C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\bin\Debug\net6.0\Game Classes.dll
+C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\bin\Debug\net6.0\Game Classes.pdb
+C:\Users\vikra\Development\Repos\GitHub\RPG\RPG\obj\Debug\net6.0\RPG.csproj.CopyComplete

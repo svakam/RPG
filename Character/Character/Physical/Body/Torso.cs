@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace Character.Physical.Body
 {
-    internal class Torso
+    public class Torso
     {
+        public decimal TorsoFlexibility { get; set; }
+    }
+
+    public enum TorsoStrength
+    {
+        VERYSTRONG,
+        STRONG,
+        AVERAGE,
+        WEAK,
+        VERYWEAK
     }
 }

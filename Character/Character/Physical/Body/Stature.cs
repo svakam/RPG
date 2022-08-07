@@ -10,4 +10,15 @@ namespace Character.Physical.Body
     {
         public decimal Height { get; set; }
     }
+
+    public enum Posture
+    {
+        STRAIGHT,
+        PROPER,
+        ABOVEAVG,
+        AVERAGE,
+        BELOWAVG,
+        SLOUCHED,
+        HUNCHBACK
+    }
 }
